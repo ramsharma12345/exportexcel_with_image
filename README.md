@@ -1,5 +1,5 @@
 
-## Installing via uploaded ZIP file ##
+## What's all covered ##
 
 1. How to export image into the Excel file
 2. File should be in the directory or it can be accessed from the path
